@@ -19,7 +19,7 @@ Feel free to explore the code, experiment with different mathematical functions 
 To explore the sketches in this collection, simply clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/creative-coding-sketches.git
+git clone https://github.com/Sarthak-Arya/creative-coding.git
 ```
 
 ## Contributing
