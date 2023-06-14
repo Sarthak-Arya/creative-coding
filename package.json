@@ -1,0 +1,19 @@
+{
+  "name": "creative-coding-sketchs",
+  "version": "1.0.0",
+  "description": "Creative Coding Sketches Collection - A fusion of art, design, math, and code. Explore mesmerizing visuals, generative art, and geometric designs. Delve into algorithms, trigonometry, and calculus to unlock infinite possibilities. Inspire collaboration and embrace the beauty of mathematics through code. -Sarthak Arya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stuck_between_pixels",
+  "license": "MIT",
+  "dependencies": {
+    "canvas-sketch": "^0.7.7",
+    "p5": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.6.2",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
